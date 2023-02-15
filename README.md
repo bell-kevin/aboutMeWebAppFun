@@ -1,3 +1,5 @@
+The picture below my picture spins in a circle.
+
 ![p](https://github.com/bell-kevin/aboutMeWebAppFun/blob/main/screenshots/Capture.PNG)
 
 ![p](https://github.com/bell-kevin/aboutMeWebAppFun/blob/main/screenshots/Capture2.PNG)
