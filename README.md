@@ -64,6 +64,8 @@ Submission: Zip the 4 screenshots with the root folder of the project, and submi
 
 ![p](https://github.com/bell-kevin/aboutMeWebApp/blob/main/screenshots/Capture5.PNG)
 
+![p](https://github.com/bell-kevin/aboutMeWebApp/blob/main/screenshots/Capture6.PNG)
+
 
 == We're Using GitHub Under Protest ==
 
