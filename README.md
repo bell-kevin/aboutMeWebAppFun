@@ -14,6 +14,8 @@ https://reactnative.dev/docs/environment-setup
 
 ![p](https://github.com/bell-kevin/aboutMeWebAppFun/blob/main/screenshots/Capture6.PNG)
 
+https://reactnative.dev/docs/environment-setup
+
 ## Reading: Storing Projects
 
 When you complete a React Native project, you should keep it on your storage device for a little while. There are multiple instances where one project will be the basis of another project. The Udemy course keeps building on the projects, so you definitely need to keep those around until you are done with that project in the course.
@@ -26,7 +28,7 @@ This does not destroy the project. If you find you need to run an old project ag
 
 Note that when you delete that folder, it takes a noticeable amount of time, far more than it takes to reload it. 
 
-A good practice for course maintenance is to keep the project in its full state until you are sure you won't be using it in the next few days, then delete the node_modules folder. 
+A good practice for course maintenance is to keep the project in its full state until you are sure you won't be using it in the next few days, then delete the node_modules folder.
 
 
 == We're Using GitHub Under Protest ==
